@@ -1,0 +1,5 @@
+<div>
+<h2>Attention !</h2>
+<p>Gardez précieusement vos identifiants de connexion et ne les partagez à personne. Nos équipes ne vous les demanderons jamais. Faites attention à vérifier où vous vous connectez (site et lieu).</p>
+</div>
+<button class="btn btn-warning" onclick="closeSecurity()">Compris</button>
